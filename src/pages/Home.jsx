@@ -3,7 +3,6 @@ import React from "react";
 import UseStates from "../components/tutorial/UseStates";
 import UseStatesMultiple from "../components/tutorial/UseStatesMultiple";
 import UseEffectHook from "../components/tutorial/UseEffectHook";
-import Test from "../components/home/Test";
 import UseRefHook from "../components/tutorial/UseRefHook";
 
 const Home = () => {
